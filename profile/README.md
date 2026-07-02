@@ -20,5 +20,8 @@ San Francisco. Founded 2025.
 | [app.md](https://github.com/atrislabs/app.md) | — | Agent-runnable app manifest standard |
 | [clawhub-skills](https://github.com/atrislabs/clawhub-skills) | — | OpenClaw skills — atris, chief-of-staff, member-runtime |
 | [atris-plugins](https://github.com/atrislabs/atris-plugins) | — | Claude Code / Cowork workspace skills |
+| [noteflow](https://github.com/atrislabs/noteflow) | — | Native macOS markdown editor |
+| [experiments](https://github.com/atrislabs/experiments) | — | Karpathy-style self-improvement experiment framework |
+| [agent-sdk-demo](https://github.com/atrislabs/agent-sdk-demo) | — | Claude Agent SDK demo |
 
 Star **[atris](https://github.com/atrislabs/atris)** if you want agents that survive the session.
